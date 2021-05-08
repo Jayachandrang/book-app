@@ -3,13 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-![alt text](Nobooks.jpg)
+![alt text](blob/mainNobooks.jpg)
 
-![alt text](ListBooks.jpg)
+![alt text](blob/main/ListBooks.jpg)
 
-![alt text](AddBooks.jpg)
+![alt text](blob/main/AddBooks.jpg)
 
-![alt text](List.jpg)
+![alt text](blob/main/List.jpg)
 
 ## Available Scripts
 
